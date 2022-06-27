@@ -1,0 +1,11 @@
+{
+  "name": "SOLID",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/and1ssu/SOLID.git",
+  "author": "andersson.brito <anderssonbrito@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
