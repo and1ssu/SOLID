@@ -7,4 +7,4 @@ router.post('/user', (req, res) => {
     return res.status(201).send();
 });
 
-export {Router}
+export {router}
